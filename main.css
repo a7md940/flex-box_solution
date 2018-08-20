@@ -1,0 +1,25 @@
+body{
+    margin:0px;
+}
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+div{
+    background-color:#aaa;
+    color:#fff;
+    width:40%;
+}
+ul{
+    list-style-type:none;
+    display:flex;
+    justify-content: space-around;
+    width:60%;
+    background-color: yellow;
+}
+
+ul li {
+    background-color: red;
+    color:white;
+}
